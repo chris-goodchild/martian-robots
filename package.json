@@ -1,0 +1,23 @@
+{
+  "name": "martian-robots",
+  "version": "1.0.0",
+  "description": "A solution to the Martian Robots coding challenge",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-goodchild/martian-robots.git"
+  },
+  "author": "Chris Goodchild",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-goodchild/martian-robots/issues"
+  },
+  "homepage": "https://github.com/chris-goodchild/martian-robots#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
