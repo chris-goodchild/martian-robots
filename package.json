@@ -4,7 +4,7 @@
   "description": "A solution to the Martian Robots coding challenge",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test --watch"
   },
   "repository": {
     "type": "git",
