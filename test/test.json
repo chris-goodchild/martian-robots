@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Test Mission A",
+    "bounds": [2, 2],
+    "expeditions": [
+      {
+        "position": [1, 1, "N"],
+        "commands": ["F", "R", "R", "F", "R", "R", "R"]
+      },
+      {
+        "position": [1, 2, "W"],
+        "commands": ["F", "R", "R", "R", "F"]
+      },
+      {
+        "position": [0, 0, "E"],
+        "commands": ["L", "F", "F", "R", "F", "F", "F", "F"]
+      }
+    ]
+  },
+  {
+    "name": "Test Mission B",
+    "bounds": [2, 2],
+    "expeditions": [
+      {
+        "position": [1, 2, "N"],
+        "commands": ["R", "R", "F", "F", "R"]
+      },
+      {
+        "position": [2, 2, "W"],
+        "commands": ["R", "F"]
+      },
+      {
+        "position": [0, 0, "E"],
+        "commands": ["L", "F", "F", "R", "F", "F", "L", "F", "L", "F"]
+      }
+    ]
+  }
+]
