@@ -2,9 +2,9 @@
   "name": "martian-robots",
   "version": "1.0.0",
   "description": "A solution to the Martian Robots coding challenge",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "mocha test/index"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",

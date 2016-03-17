@@ -8,8 +8,8 @@ A solution to the Martian Robots coding challenge, written in NodeJS.
 
 ## Running tests
 
-`$ npm test/index`
+`$ npm test`
 
 ## Running the solution
 
-`$ node src/index`
+`$ node index`

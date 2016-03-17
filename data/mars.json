@@ -1,0 +1,18 @@
+{
+  "name": "Mars",
+  "bounds": [5, 3],
+  "expeditions": [
+    {
+      "position": [1, 1, "E"],
+      "commands": ["R", "F", "R", "F", "R", "F", "R", "F"]
+    },
+    {
+      "position": [3, 2, "N"],
+      "commands": ["F", "R", "R", "F", "L", "L", "F", "F", "R", "R", "F", "L", "L"]
+    },
+    {
+      "position": [0, 3, "W"],
+      "commands": ["L", "L", "F", "F", "F", "L", "F", "L", "F", "L"]
+    }
+  ]
+}
