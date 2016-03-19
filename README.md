@@ -12,4 +12,8 @@ A solution to the Martian Robots coding challenge, written in NodeJS.
 
 ## Running the solution
 
+`$ npm start`
+
+OR
+
 `$ node index`
